@@ -206,12 +206,12 @@ class Variables{
         6:"person.crop.circle",
         10:"pencil.slash"
     ]
+
+    static let loginUrlApi = "YOUR_USER_LOGIN_URL_API"
+
+    static let registerUrlApi = "YOUR_USER_REGISTER_URL_API"
     
-    static let loginUrlApi = "https://www.flogitarooms.gr/pk_crm/api/login.php"
-    
-    static let registerUrlApi = "https://www.flogitarooms.gr/pk_crm/api/register.php"
-    
-    static let deleteUrlApi = "https://www.flogitarooms.gr/pk_crm/api/delete.php"
+    static let deleteUrlApi = "YOUR_USER_DELETE_URL_API"
     
     static let currency = "€"
     
